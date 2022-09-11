@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepakcool9993
 - 👀 I’m interested in Working with Organization with growth and also providing solution for Organization for their work.
 - 🌱 I’m currently learning .Net Core
-- 💞️ I’m looking to collaborate on Sotck Management System, HRMS etc.
+- 💞️ I’m looking to collaborate on Stock Management System, HRMS etc.
 - 📫 You can reach me by mailing at deepakcool9993@gmail.com, I will surely reply.
 
 <!---
